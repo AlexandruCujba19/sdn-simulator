@@ -1,0 +1,7 @@
+/build/
+/src/build/
+/src/simulator
+*.exe
+*.log
+*.o
+*.obj
